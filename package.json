@@ -1,0 +1,6 @@
+{
+    "description": "Design system",
+    "devDependencies": {
+        "typescript": "^4.1.3"
+    }
+}
