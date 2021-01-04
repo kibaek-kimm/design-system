@@ -1,5 +1,5 @@
-name: "first-workflow"
+name: first-workflow
 on:
   push:
     branches:
-      - "master"
+      - master
