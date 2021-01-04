@@ -1,0 +1,5 @@
+name: "first-workflow"
+on:
+  push:
+    branches:
+      - "master"
