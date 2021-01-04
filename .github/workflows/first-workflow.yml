@@ -1,8 +1,7 @@
 name: first-workflow
-on:
-  push:
-    branches:
-      - master
+on: [push, pull_request]
+  branches:
+    - master
 jobs:
   check-bats-version:
     runs-on: ubuntu-latest
