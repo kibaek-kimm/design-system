@@ -1,4 +1,5 @@
 {
+    "private": true,
     "description": "Design system",
     "devDependencies": {
         "typescript": "^4.1.3"
@@ -11,8 +12,5 @@
         "lerna:help": "lerna --help",
         "lerna:bootstrap": "lerna bootstrap"
     },
-    "name": "design-system",
-    "workspaces": [
-        "packages/*"
-    ]
+    "name": "design-system"
 }
