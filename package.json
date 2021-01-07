@@ -12,4 +12,7 @@
         "lerna:bootstrap": "lerna bootstrap"
     },
     "name": "kinemaster-design-system"
+    "workspaces": [
+        "packages/*"
+    ]
 }
