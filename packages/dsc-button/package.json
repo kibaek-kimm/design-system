@@ -1,6 +1,6 @@
 {
   "name": "@dsc/button",
-  "version": "1.0.1-alpha.0",
+  "version": "1.0.1-alpha.0+f1de57e",
   "description": "Button Components",
   "keywords": [
     "design system",
@@ -32,5 +32,5 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   },
-  "gitHead": "66968436de70d7df5877790a3ad9e87eb2073809"
+  "gitHead": "f1de57eacd6adf8c2fe3e5c907b5548ea10e1f54"
 }
