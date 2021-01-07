@@ -1,6 +1,9 @@
 {
     "private": true,
     "description": "Design system",
+    "workspaces": [
+        "packages/*"
+    ],
     "devDependencies": {
         "typescript": "^4.1.3"
     },
