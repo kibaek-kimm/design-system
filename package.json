@@ -1,7 +1,11 @@
 {
     "private": true,
     "description": "Design system",
+    "workspaces": [
+        "packages/*"
+    ],
     "devDependencies": {
+        "eslint": "^7.17.0",
         "typescript": "^4.1.3"
     },
     "dependencies": {
