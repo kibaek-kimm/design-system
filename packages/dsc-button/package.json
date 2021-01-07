@@ -1,5 +1,5 @@
 {
-  "name": "dsc-button",
+  "name": "@dsc/button",
   "version": "1.0.0",
   "description": "Button Components",
   "keywords": [
@@ -9,7 +9,7 @@
   "author": "Kibaek Kim <kibaek.kimm@gmail.com>",
   "homepage": "https://github.com/kibaek-kimm/design-system#readme",
   "license": "ISC",
-  "main": "lib/dsc.js",
+  "main": "index.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
