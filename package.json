@@ -11,7 +11,7 @@
         "lerna:help": "lerna --help",
         "lerna:bootstrap": "lerna bootstrap"
     },
-    "name": "kinemaster-design-system"
+    "name": "design-system",
     "workspaces": [
         "packages/*"
     ]
