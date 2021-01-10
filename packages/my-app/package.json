@@ -1,13 +1,13 @@
 {
   "name": "my-app",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
   },
   "dependencies": {
-    "@dsc/button": "^1.2.2",
+    "@dsc/button": "^1.2.3",
     "next": "10.0.5",
     "react": "17.0.1",
     "react-dom": "17.0.1"
