@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "version": "0.2.6",
+  "version": "0.3.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -8,7 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@dsc/button": "^1.1.6",
+    "@dsc/button": "^1.2.0",
     "next": "10.0.5",
     "react": "17.0.1",
     "react-dom": "17.0.1"
