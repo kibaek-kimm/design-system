@@ -1,5 +1,4 @@
 {
-  "private": true,
   "description": "Design system",
   "workspaces": [
     "packages/*"

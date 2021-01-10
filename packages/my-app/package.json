@@ -11,5 +11,6 @@
     "next": "10.0.5",
     "react": "17.0.1",
     "react-dom": "17.0.1"
-  }
+  },
+  "gitHead": "0d1f2dfb23bb84cbad0c3f6396fc4f41fd65fefc"
 }
