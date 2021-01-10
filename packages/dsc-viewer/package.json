@@ -1,14 +1,14 @@
 {
   "private": true,
   "name": "@dsc/viewer",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
   },
   "dependencies": {
-    "@dsc/button": "^1.2.4",
+    "@dsc/button": "^1.2.5",
     "next": "10.0.5",
     "react": "17.0.1",
     "react-dom": "17.0.1"
