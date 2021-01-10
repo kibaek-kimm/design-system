@@ -1,5 +1,5 @@
 {
-  "name": "my-app",
+  "name": "@dsc/viewer",
   "version": "0.3.3",
   "scripts": {
     "dev": "next dev",
@@ -12,5 +12,5 @@
     "react": "17.0.1",
     "react-dom": "17.0.1"
   },
-  "gitHead": "0d1f2dfb23bb84cbad0c3f6396fc4f41fd65fefc"
+  "gitHead": "161d852ddb0606b8e97646b4607f4da41669fa9d"
 }
